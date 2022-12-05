@@ -1,2 +1,3 @@
 # SmoothFilters.jl
-Bayesian filtering and smoothing
+
+# DO NOT TRUST THIS REPO- ITS GPT BULLSHIT
